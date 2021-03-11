@@ -1,5 +1,5 @@
-# 떡볶이
-
+---
+Title: 떡볶이
 Created: Jan 16, 2021 9:34 PM
 English: ricecake
 Hasgtag: korean, spicy
@@ -7,7 +7,7 @@ Korean: 떡볶이
 Last made: Jan 17, 2021
 Rating: 9
 Swedish: riskaka
-
+---
 Tteokbokki rice cake 2cup
 0.5 cups green onions
 

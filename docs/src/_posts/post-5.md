@@ -1,5 +1,5 @@
-# Jordgubbstårta
-
+---
+Title: Jordgubbstårta
 Created: Jan 16, 2021 9:07 PM
 English: Strawberry cake
 Hasgtag: dessert, swedish, tasty
@@ -7,7 +7,7 @@ Korean: 딸기 케이크
 Last made: Jan 16, 2021
 Rating: 10
 Swedish: Jordgubbstårta
-
+---
 # Thoughts and Improvement
 
 - Jakob: adjust size after number of persons. Strawberries also in the vanila cream's layer.(current: first layer with jam+cream, second layer with vanila cream)

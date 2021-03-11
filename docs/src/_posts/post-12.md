@@ -1,12 +1,12 @@
-# 양념치킨
-
+---
+Title: 양념치킨
 Created: Feb 8, 2021 12:58 PM
 English: Fried chicken
 Korean: 양념치킨
 Last made: Feb 5, 2021
 Property: https://m.youtube.com/watch?v=2HZO-YNHFPk&feature=youtu.be
 Rating: 9
-
+---
 [ 재료 ]
 
 [ 치킨반죽 ]

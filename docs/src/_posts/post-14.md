@@ -1,10 +1,11 @@
-# Barnens frasiga fiskfavoriter
-
+---
+Title: Barnens frasiga fiskfavoriter
 Created: Jan 23, 2021 3:30 PM
 Last made: Jan 23, 2021
 Property: https://www.coop.se/recept/enkel-fish-and-chips
 Rating: 4
 Swedish: Barnens frasiga fiskfavoriter
+---
 
 # Ingredients
 

@@ -1,0 +1,20 @@
+{
+  "name": "theriskaka",
+  "version": "0.0.1",
+  "description": "how to make tasty food",
+  "main": "index.js",
+  "authors": {
+    "name": "theriskaka",
+    "email": ""
+  },
+  "repository": "/theriskaka",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "@vuepress/theme-blog": "^2.3.3",
+    "vuepress": "^1.5.3"
+  }
+}

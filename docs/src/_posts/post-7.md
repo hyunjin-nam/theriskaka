@@ -1,11 +1,12 @@
 ---
-Title: Kyckling med vinägrett och bulgursallad
+title: Kyckling med vinägrett och bulgursallad
 Created: Jan 23, 2021 3:24 PM
 Hasgtag: Matkasse, Need improvement
 Property: https://www.coop.se/recept/kyckling-med-ajvarvinagrett-och-bulgursallad
 Rating: 2
 Swedish: Kyckling med vinägrett och bulgursallad
 ---
+
 # Feedback
 
 - Hyunjin: Not tasty. I don’t like cucumber.

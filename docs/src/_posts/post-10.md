@@ -1,5 +1,5 @@
 ---
-Title: 떡볶이
+title: 떡볶이
 Created: Jan 16, 2021 9:34 PM
 English: ricecake
 Hasgtag: korean, spicy

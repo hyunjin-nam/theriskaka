@@ -1,12 +1,12 @@
 ---
-title: 떡볶이 🍦 
+title: Glass 🍦 
 date: 2019-06-03 00:00:00 +0000
 thumbnail: "/upload/icecream/icecream1.jpg"
 description: Three best ice-cream places in Stockholm
 ---
 # 떡볶이
 
-Created: Jan 16, 2021 9:34 PM
+s: Jan 16, 2021 9:34 PM
 English: ricecake
 Hasgtag: korean, spicy
 Korean: 떡볶이

@@ -1,5 +1,5 @@
 ---
-Title: Barnens frasiga fiskfavoriter
+title: Barnens frasiga fiskfavoriter
 Created: Jan 23, 2021 3:30 PM
 Last made: Jan 23, 2021
 Property: https://www.coop.se/recept/enkel-fish-and-chips

@@ -2,6 +2,7 @@
 title: 제육볶음
 Created: Feb 21, 2021 5:07 PM
 Rating: 8
+type: article
 ---
 
 ## ingrediants

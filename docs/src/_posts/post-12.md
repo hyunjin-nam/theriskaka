@@ -6,6 +6,7 @@ Korean: 양념치킨
 Last made: Feb 5, 2021
 Property: https://m.youtube.com/watch?v=2HZO-YNHFPk&feature=youtu.be
 Rating: 9
+type: article
 ---
 
 [ 재료 ]
